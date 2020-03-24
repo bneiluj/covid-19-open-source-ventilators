@@ -1,7 +1,7 @@
 # covid-19-open-source-ventilators-list
 List of "diy buidable" Covid-19 Open Source Ventilator initiatives for emergency purposes.
 
-*Open source ventilator / OpenLung BVM Ventilator*
+**Open source ventilator / OpenLung BVM Ventilator**
 
 An [IN PROGRESS] open source, low resource, quick deployment ventilator design that utilizes a bag valve mask (BVM or Ambu-bag) as a core component.
 
@@ -11,7 +11,7 @@ An [IN PROGRESS] open source, low resource, quick deployment ventilator design t
 - Twitter: https://twitter.com/OSVentilator
 - Media: https://www.forbes.com/sites/alexandrasternlicht/2020/03/18/theres-a-shortage-of-ventilators-for-coronavirus-patients-so-this-international-group-invented-an-open-source-alternative-thats-being-tested-next-week/#67589ab73ba0
 
-*Easy Covid 19*
+**Easy Covid 19**
 
 It’s the construction of an emergency ventilator mask, realized by adjusting a decathlon snorkeling mask already available on the market.
 
@@ -19,7 +19,7 @@ It’s the construction of an emergency ventilator mask, realized by adjusting a
 - Files: https://www.isinnova.it/wp-content/uploads/2020/03/charlotte-valve.zip
 - Video: https://youtu.be/w4Csqdxkrfw
 
-*OxyGEN*
+**OxyGEN**
 
 OxyGEN is an open hardware prototype that has been collaboratively developed by a group of engineers led by Barcelona based company, PROTOFY.xyz. Initiated March 2020.
 
@@ -27,7 +27,7 @@ OxyGEN is an open hardware prototype that has been collaboratively developed by 
 - Github: https://github.com/ProtofyTeam/OxyGEN 
 - Files: https://github.com/ProtofyTeam/OxyGEN/archive/master.zip
 
-*Low-Cost Open Source Ventilator or PAPR*
+**Low-Cost Open Source Ventilator or PAPR**
 
 Low-Cost Open Source Ventilator or PAPR
 
