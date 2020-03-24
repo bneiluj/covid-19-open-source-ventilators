@@ -6,6 +6,7 @@ List of major Covid-19 Open Source Ventilator initiatives for emergency purposes
 - Website: https://opensourceventilator.ie/
 - Diagram: https://whimsical.com/4mai9JtqTHAGu6i6qz8Hyy
 - Twitter: https://twitter.com/OSVentilator
+- Media: https://www.forbes.com/sites/alexandrasternlicht/2020/03/18/theres-a-shortage-of-ventilators-for-coronavirus-patients-so-this-international-group-invented-an-open-source-alternative-thats-being-tested-next-week/#67589ab73ba0
 
 *Easy Covid 19*
 - Website: https://www.isinnova.it/easy-covid19-eng/
