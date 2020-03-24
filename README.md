@@ -1,5 +1,5 @@
 # covid-19-open-source-ventilators-list
-List of "diy buidable" Covid-19 Open Source Ventilator initiatives for emergency purposes.
+List of "buidable DIY" Covid-19 Open Source Ventilator initiatives for emergency purposes.
 
 **Open source ventilator / OpenLung BVM Ventilator**
 
