@@ -11,6 +11,10 @@ An [IN PROGRESS] open source, low resource, quick deployment ventilator design t
 - Twitter: https://twitter.com/OSVentilator
 - Media: https://www.forbes.com/sites/alexandrasternlicht/2020/03/18/theres-a-shortage-of-ventilators-for-coronavirus-patients-so-this-international-group-invented-an-open-source-alternative-thats-being-tested-next-week/#67589ab73ba0
 
+<p align="center">
+  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/Open_source_ventilator.jpeg" />
+</p>
+
 **Easy Covid 19**
 
 It’s the construction of an emergency ventilator mask, realized by adjusting a decathlon snorkeling mask already available on the market.
@@ -19,13 +23,21 @@ It’s the construction of an emergency ventilator mask, realized by adjusting a
 - Files: https://www.isinnova.it/wp-content/uploads/2020/03/charlotte-valve.zip
 - Video: https://youtu.be/w4Csqdxkrfw
 
+<p align="center">
+  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/decathlon2.jpeg" />
+</p>
+
 **OxyGEN**
 
 OxyGEN is an open hardware prototype that has been collaboratively developed by a group of engineers led by Barcelona based company, PROTOFY.xyz. Initiated March 2020.
 
 - Website: https://www.oxygen.protofy.xyz/
-- Github: https://github.com/ProtofyTeam/OxyGEN 
+- Github: https://github.com/ProtofyTeam/OxyGEN
 - Files: https://github.com/ProtofyTeam/OxyGEN/archive/master.zip
+
+<p align="center">
+  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/oxygen.jpeg" />
+</p>
 
 **Low-Cost Open Source Ventilator or PAPR**
 
@@ -35,3 +47,7 @@ Low-Cost Open Source Ventilator or PAPR
 - Blog: https://blog.arduino.cc/2020/03/17/designing-a-low-cost-open-source-ventilator-with-arduino/
 - Media: https://www.vice.com/en_uk/article/5dm4mb/people-are-trying-to-make-diy-ventilators-to-meet-coronavirus-demand
 - Video: https://www.youtube.com/watch?v=n57u1NvXBgw
+
+<p align="center">
+  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/PAPR.jpg" />
+</p>
