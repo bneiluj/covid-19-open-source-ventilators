@@ -13,6 +13,14 @@ List of major Covid-19 Open Source Ventilator initiatives for emergency purposes
 - Files: https://www.isinnova.it/wp-content/uploads/2020/03/charlotte-valve.zip
 - Video: https://youtu.be/w4Csqdxkrfw
 
+*OxyGEN*
+
+OxyGEN is an open hardware prototype that has been collaboratively developed by a group of engineers led by Barcelona based company, PROTOFY.xyz. Initiated March 2020.
+
+- Website: https://www.oxygen.protofy.xyz/
+- Github: https://github.com/ProtofyTeam/OxyGEN 
+- Files: https://github.com/ProtofyTeam/OxyGEN/archive/master.zip
+
 *Low-Cost Open Source Ventilator or PAPR*
 - Github: https://github.com/jcl5m1/ventilator
 - Blog: https://blog.arduino.cc/2020/03/17/designing-a-low-cost-open-source-ventilator-with-arduino/
