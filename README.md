@@ -1,6 +1,18 @@
 # covid-19-open-source-ventilators-list
 List of "buidable DIY" Covid-19 Open Source Ventilator initiatives for emergency purposes.
 
+**Easy Covid 19**
+
+It’s the construction of an emergency ventilator mask, realized by adjusting a decathlon snorkeling mask already available on the market.
+
+- Website: https://www.isinnova.it/easy-covid19-eng/
+- Files: https://www.isinnova.it/wp-content/uploads/2020/03/charlotte-valve.zip
+- Video: https://youtu.be/w4Csqdxkrfw
+
+<p align="center">
+  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/decathlon2.jpeg" />
+</p>
+
 **Open source ventilator / OpenLung BVM Ventilator**
 
 An [IN PROGRESS] open source, low resource, quick deployment ventilator design that utilizes a bag valve mask (BVM or Ambu-bag) as a core component.
@@ -13,18 +25,6 @@ An [IN PROGRESS] open source, low resource, quick deployment ventilator design t
 
 <p align="center">
   <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/Open_source_ventilator.jpeg" />
-</p>
-
-**Easy Covid 19**
-
-It’s the construction of an emergency ventilator mask, realized by adjusting a decathlon snorkeling mask already available on the market.
-
-- Website: https://www.isinnova.it/easy-covid19-eng/
-- Files: https://www.isinnova.it/wp-content/uploads/2020/03/charlotte-valve.zip
-- Video: https://youtu.be/w4Csqdxkrfw
-
-<p align="center">
-  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/decathlon2.jpeg" />
 </p>
 
 **OxyGEN**
