@@ -70,4 +70,13 @@ An open hardware and source project aiming to upgrade ventilation bags. By colla
   <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/CORESPONSE_2.jpg" />
 </p>
 
+
+**MIT E-Vent - MIT Emergency Ventilator**
+
+- Website: https://e-vent.mit.edu/
+- Twitter Post David Austin from MIT: https://twitter.com/sinanaral/status/1244107247959056384?s=20
+- Media Post : https://scitechdaily.com/mit-posts-free-plans-online-for-an-emergency-ventilator-that-can-be-built-for-100/
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
