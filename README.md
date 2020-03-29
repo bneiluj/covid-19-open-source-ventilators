@@ -24,7 +24,12 @@ It’s the construction of an emergency ventilator mask, realized by adjusting a
 - Video: https://youtu.be/w4Csqdxkrfw
 
 <p align="center">
-  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/decathlon2.jpeg" />
+  <img src="/assets/Easy-Covid-19/Easy-Covid-19-1.jpg" width="300">&nbsp;
+  <img src="/assets/Easy-Covid-19/Easy-Covid-19-2.jpg" width="300">&nbsp;
+</p>  
+
+<p align="center">
+  <img src="/assets/Easy-Covid-19/Easy-Covid-19-3.jpg" width="300">&nbsp;
 </p>
 
 **OxyGEN**
