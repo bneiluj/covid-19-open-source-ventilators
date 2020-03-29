@@ -44,8 +44,8 @@ OxyGEN is an open hardware prototype that has been collaboratively developed by 
 A 3D printable ventilator project with a basic components list ironically inspired by some crude project worked on years ago. Initiated March 2020.
 
 GitHub: https://github.com/Mentors4EDU/OpenVentilator-Kit  
-ReadtheDocs:https://ov.readthedocs.io/en/latest/  
-Devpost:https://devpost.com/software/open-ventilator-project
+ReadtheDocs: https://ov.readthedocs.io/en/latest/  
+Devpost: https://devpost.com/software/open-ventilator-project
 
 <p align="center">
   <img width="400px" src="https://raw.githubusercontent.com/Mentors4EDU/OpenVentilator-Kit/master/Model%20Visuals/%231.png" />
