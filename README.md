@@ -54,14 +54,15 @@ Low-Cost Open Source Ventilator or PAPR
 
 **CORESPONSE - COvid19 RESPirator OpeN SourcE**
 
-An open hardware and source project aiming to upgrade respirator bags. By collaborators from German technical University RWTH Aachen.
+An open hardware and source project aiming to upgrade ventilation bags. By collaborators from German technical University RWTH Aachen.
 
 - Website: https://coresponse.github.io/blog/
 - Github: https://github.com/CORESPONSE
-- Video: https://www.youtube.com/watch?v=q_4oy5Px5CQ&feature=emb_title
+- Twitter: https://twitter.com/CORESPONSE
+- Video: https://youtu.be/X8FwXDQqe1M
 
 <p align="center">
-  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/CORESPONSE.png" />
+  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/CORESPONSE_2.jpg" />
 </p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
