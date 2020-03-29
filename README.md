@@ -8,6 +8,7 @@ It’s the construction of an emergency ventilator mask, realized by adjusting a
 - Website: https://www.isinnova.it/easy-covid19-eng/
 - Files: https://www.isinnova.it/wp-content/uploads/2020/03/charlotte-valve.zip
 - Video: https://youtu.be/w4Csqdxkrfw
+- Tested: ✅ by @bneiluj
 
 <p align="center">
   <img src="/assets/Easy-Covid-19/Easy-Covid-19-1.jpg" width="300">&nbsp;
