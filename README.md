@@ -77,6 +77,9 @@ An open hardware and source project aiming to upgrade ventilation bags. By colla
 - Twitter Post David Austin from MIT: https://twitter.com/sinanaral/status/1244107247959056384?s=20
 - Media Post : https://scitechdaily.com/mit-posts-free-plans-online-for-an-emergency-ventilator-that-can-be-built-for-100/
 
+<p align="center">
+  <img width="400px" src="assets/MIT-Low-Cost-Ventilator-777x518.jpg" />
+</p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
