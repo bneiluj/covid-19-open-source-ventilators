@@ -115,6 +115,7 @@ An open hardware and source project aiming to upgrade ventilation bags. By colla
 ---
 #### Open Source Ventilator Project (University of Florida Health)
 
+- Website: https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/
 - GitHub: https://github.com/CSSALTlab/Open_Source_Ventilator
 - Forum: https://simulation.health.ufl.edu/forums/forum/open-source-ventilator-project/
 - Video: https://www.youtube.com/watch?v=4xX6sCamPJw
