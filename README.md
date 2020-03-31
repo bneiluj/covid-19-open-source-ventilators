@@ -4,15 +4,17 @@ List of "buidable DIY" Covid-19 Open Source Ventilator initiatives for emergency
 
 <!-- MarkdownTOC autolink="true" -->
 
-- [Open sourced specifications](#open-sourced-specifications)
-	- [UK Government Department of Health & Social Care: Rapidly manufactured ventilator system specification](#uk-government-department-of-health--social-care-rapidly-manufactured-ventilator-system-specification)
-- [Open source designs](#open-source-designs)
-	- [Easy Covid 19](#easy-covid-19)
-	- [Open source ventilator / OpenLung BVM Ventilator](#open-source-ventilator--openlung-bvm-ventilator)
-	- [OxyGEN](#oxygen)
-	- [Low-Cost Open Source Ventilator or PAPR](#low-cost-open-source-ventilator-or-papr)
-	- [CORESPONSE - COvid19 RESPirator OpeN SourcE](#coresponse---covid19-respirator-open-source)
-	- [MIT E-Vent - MIT Emergency Ventilator](#mit-e-vent---mit-emergency-ventilator)
+- [covid-19-open-source-ventilators-list](#covid-19-open-source-ventilators-list)
+    - [Open sourced specifications](#open-sourced-specifications)
+      - [UK Government Department of Health & Social Care: Rapidly manufactured ventilator system specification](#uk-government-department-of-health--social-care-rapidly-manufactured-ventilator-system-specification)
+    - [Open source designs](#open-source-designs)
+      - [Easy Covid 19](#easy-covid-19)
+      - [Open source ventilator / OpenLung BVM Ventilator](#open-source-ventilator--openlung-bvm-ventilator)
+      - [OxyGEN](#oxygen)
+      - [Low-Cost Open Source Ventilator or PAPR](#low-cost-open-source-ventilator-or-papr)
+      - [CORESPONSE - COvid19 RESPirator OpeN SourcE](#coresponse---covid19-respirator-open-source)
+      - [MIT E-Vent - MIT Emergency Ventilator](#mit-e-vent---mit-emergency-ventilator)
+      - [Open Source Ventilator Project (University of Florida Health)](#open-source-ventilator-project-university-of-florida-health)
 
 <!-- /MarkdownTOC -->
 
@@ -57,6 +59,7 @@ An [IN PROGRESS] open source, low resource, quick deployment ventilator design t
   <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/Open_source_ventilator.jpeg" />
 </p>
 
+---
 #### OxyGEN
 
 OxyGEN is an open hardware prototype that has been collaboratively developed by a group of engineers led by Barcelona based company, PROTOFY.xyz. Initiated March 2020.
@@ -69,6 +72,7 @@ OxyGEN is an open hardware prototype that has been collaboratively developed by 
   <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/oxygen.jpeg" />
 </p>
 
+---
 #### Low-Cost Open Source Ventilator or PAPR
 
 Low-Cost Open Source Ventilator or PAPR
@@ -82,6 +86,7 @@ Low-Cost Open Source Ventilator or PAPR
   <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/PAPR.jpg" />
 </p>
 
+---
 ####  CORESPONSE - COvid19 RESPirator OpeN SourcE
 
 An open hardware and source project aiming to upgrade ventilation bags. By collaborators from German technical University RWTH Aachen.
@@ -95,15 +100,28 @@ An open hardware and source project aiming to upgrade ventilation bags. By colla
   <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/CORESPONSE_2.jpg" />
 </p>
 
-
+---
 #### MIT E-Vent - MIT Emergency Ventilator
 
 - Website: https://e-vent.mit.edu/
 - Twitter Post David Austin from MIT: https://twitter.com/sinanaral/status/1244107247959056384?s=20
 - Media Post : https://scitechdaily.com/mit-posts-free-plans-online-for-an-emergency-ventilator-that-can-be-built-for-100/
 
+
 <p align="center">
   <img width="400px" src="assets/MIT-Low-Cost-Ventilator-777x518.jpg" />
 </p>
 
+---
+#### Open Source Ventilator Project (University of Florida Health)
+
+- GitHub: https://github.com/CSSALTlab/Open_Source_Ventilator
+- Forum: https://simulation.health.ufl.edu/forums/forum/open-source-ventilator-project/
+- Video: https://www.youtube.com/watch?v=4xX6sCamPJw
+
+
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+
