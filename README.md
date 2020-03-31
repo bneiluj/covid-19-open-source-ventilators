@@ -27,6 +27,7 @@ List of "buidable DIY" Covid-19 Open Source Ventilator initiatives for emergency
 
 ###  Open source designs
 
+---
 #### Easy Covid 19
 
 It’s the construction of an emergency ventilator mask, realized by adjusting a decathlon snorkeling mask already available on the market.
@@ -45,6 +46,7 @@ It’s the construction of an emergency ventilator mask, realized by adjusting a
   <img src="/assets/Easy-Covid-19/Easy-Covid-19-3.jpg" width="300">&nbsp;
 </p>
 
+---
 #### Open source ventilator / OpenLung BVM Ventilator
 
 An [IN PROGRESS] open source, low resource, quick deployment ventilator design that utilizes a bag valve mask (BVM or Ambu-bag) as a core component.
