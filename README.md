@@ -14,9 +14,11 @@ List of "buidable DIY" Covid-19 Open Source Ventilator initiatives for emergency
 	- [CORESPONSE - COvid19 RESPirator OpeN SourcE](#coresponse---covid19-respirator-open-source)
 	- [MIT E-Vent - MIT Emergency Ventilator](#mit-e-vent---mit-emergency-ventilator)
 	- [Open Source Ventilator Project \(University of Florida Health\)](#open-source-ventilator-project-university-of-florida-health)
+	
+- Analysis of Open Source COVID-19 Pandemic Ventilator Projects
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#
 
 <!-- /MarkdownTOC -->
-
 
 ### Open sourced specifications
 
