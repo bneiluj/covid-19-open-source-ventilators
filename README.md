@@ -130,9 +130,9 @@ An open hardware and source project aiming to upgrade ventilation bags. By colla
 
 # Contributors
 
-This project exists thanks to all the people who contribute. 🙏 [Become a contributor](https://github.com/bneiluj/covid-19-open-source-masks/issues/5), [Telegram Group](https://t.me/OpenSourceCovidVentilators)
+This project exists thanks to all the people who contribute. https://github.com/bneiluj/covid-19-open-source-ventilators/graphs/contributors 🙏 
 
-<a href="../../graphs/contributors"><img src="https://github.com/bneiluj/covid-19-open-source-masks/graphs/contributors" /></a>
+[Telegram Group](https://t.me/OpenSourceCovidVentilators)
 
 # Backers
 
