@@ -2,19 +2,18 @@
 
 List of "buidable DIY" Covid-19 Open Source Ventilator initiatives for emergency purposes.
 
-<!-- MarkdownTOC autolink="true" levels="2,3,4" -->
+<!-- MarkdownTOC autolink="true" levels="3,4" -->
 
-- [covid-19-open-source-ventilators-list](#covid-19-open-source-ventilators-list)
-    - [Open sourced specifications](#open-sourced-specifications)
-      - [UK Government Department of Health & Social Care: Rapidly manufactured ventilator system specification](#uk-government-department-of-health--social-care-rapidly-manufactured-ventilator-system-specification)
-    - [Open source designs](#open-source-designs)
-      - [Easy Covid 19](#easy-covid-19)
-      - [Open source ventilator / OpenLung BVM Ventilator](#open-source-ventilator--openlung-bvm-ventilator)
-      - [OxyGEN](#oxygen)
-      - [Low-Cost Open Source Ventilator or PAPR](#low-cost-open-source-ventilator-or-papr)
-      - [CORESPONSE - COvid19 RESPirator OpeN SourcE](#coresponse---covid19-respirator-open-source)
-      - [MIT E-Vent - MIT Emergency Ventilator](#mit-e-vent---mit-emergency-ventilator)
-      - [Open Source Ventilator Project (University of Florida Health)](#open-source-ventilator-project-university-of-florida-health)
+- [Open sourced specifications](#open-sourced-specifications)
+	- [UK Government Department of Health & Social Care: Rapidly manufactured ventilator system specification](#uk-government-department-of-health--social-care-rapidly-manufactured-ventilator-system-specification)
+- [Open source designs](#open-source-designs)
+	- [Easy Covid 19](#easy-covid-19)
+	- [Open source ventilator / OpenLung BVM Ventilator](#open-source-ventilator--openlung-bvm-ventilator)
+	- [OxyGEN](#oxygen)
+	- [Low-Cost Open Source Ventilator or PAPR](#low-cost-open-source-ventilator-or-papr)
+	- [CORESPONSE - COvid19 RESPirator OpeN SourcE](#coresponse---covid19-respirator-open-source)
+	- [MIT E-Vent - MIT Emergency Ventilator](#mit-e-vent---mit-emergency-ventilator)
+	- [Open Source Ventilator Project \(University of Florida Health\)](#open-source-ventilator-project-university-of-florida-health)
 
 <!-- /MarkdownTOC -->
 
