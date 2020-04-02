@@ -2,7 +2,7 @@
 
 List of "buidable DIY" Covid-19 Open Source Ventilator initiatives for emergency purposes.
 
-<!-- MarkdownTOC autolink="true" -->
+<!-- MarkdownTOC autolink="true" levels="2,3,4" -->
 
 - [covid-19-open-source-ventilators-list](#covid-19-open-source-ventilators-list)
     - [Open sourced specifications](#open-sourced-specifications)
@@ -122,9 +122,12 @@ An open hardware and source project aiming to upgrade ventilation bags. By colla
 - Forum: https://simulation.health.ufl.edu/forums/forum/open-source-ventilator-project/
 - Video: https://www.youtube.com/watch?v=4xX6sCamPJw
 
+<p align="center">
+  <img src="/assets/Florida1.jpg" width="300">&nbsp;
+  <img src="/assets/Florida2.jpg" width="300">&nbsp;
+</p>  
 
-
-
+---
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
