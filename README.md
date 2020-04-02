@@ -70,4 +70,12 @@ An open hardware and source project aiming to upgrade ventilation bags. By colla
   <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-ventilators/blob/master/assets/CORESPONSE_2.jpg" />
 </p>
 
+# Backers
+
+Thank you to all our backers! 🙏 [Become a backer](https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors)
+
+<p align="center">
+  <img href="https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors" src="assets/contributors/contributors.jpg" width="1200">&nbsp;
+</p>  
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
