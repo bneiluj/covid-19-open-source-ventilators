@@ -7,6 +7,7 @@ List of "buidable DIY" Covid-19 Open Source Ventilator initiatives for emergency
 - [Open sourced specifications](#open-sourced-specifications)
 	- [UK Government Department of Health & Social Care: Rapidly manufactured ventilator system specification](#uk-government-department-of-health--social-care-rapidly-manufactured-ventilator-system-specification)
 - [Open source designs](#open-source-designs)
+	- [UTBM Decathlon Valve for caregiver](#UTBM-Decathlon-Valve-for-caregiver)
 	- [Easy Covid 19](#easy-covid-19)
 	- [Open source ventilator / OpenLung BVM Ventilator](#open-source-ventilator--openlung-bvm-ventilator)
 	- [OxyGEN](#oxygen)
@@ -27,6 +28,21 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguq
 - Publication: [Rapidly manufactured ventilator system specification (20 March 2020)](https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification)
 
 ###  Open source designs
+---
+#### UTBM Decathlon Valve for caregiver
+
+Caregiver models based on Decathlon products
+
+- Website: https://www.utbm.fr/MASQUES-DECATHLON-VISIERE/
+- Files: http://www.utbm.fr/wp-content/uploads/2020/04/Connecteur-filtre-UTBMCrunchLab.zip
+- Video: https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pays-de-montbeliard/coronavirus-covid-19-ecole-ingenieurs-belfort-montbeliard-lance-production-masques-hopital-1808966.html
+- Tested: ✅ by @bneiluj
+- Feedback: Much better design and mechanism of attaching the charlotte into the Decathlon mask than the Easy Covid 19
+
+<p align="center">
+  <img src="/assets/utbm/covid_HNFC.png" width="300">&nbsp;
+  <img src="/assets/utbm/utbm-7.jpg" width="300">&nbsp;
+</p>  
 
 ---
 #### Easy Covid 19
@@ -130,7 +146,7 @@ An open hardware and source project aiming to upgrade ventilation bags. By colla
 
 # Contributors
 
-This project exists thanks to all the people who contribute. https://github.com/bneiluj/covid-19-open-source-ventilators/graphs/contributors 🙏 
+This project exists thanks to all the people who contribute. https://github.com/bneiluj/covid-19-open-source-ventilators/graphs/contributors 🙏
 
 [Telegram Group](https://t.me/OpenSourceCovidVentilators)
 
