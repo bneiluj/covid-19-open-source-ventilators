@@ -53,6 +53,7 @@ It’s the construction of an emergency ventilator mask, realized by adjusting a
 - Files: https://www.isinnova.it/wp-content/uploads/2020/03/charlotte-valve.zip
 - Video: https://youtu.be/w4Csqdxkrfw
 - Tested: ✅ by @bneiluj
+- Feedback: Not great designs. Easily breaks at the fixation part
 
 <p align="center">
   <img src="/assets/Easy-Covid-19/Easy-Covid-19-1.jpg" width="300">&nbsp;
