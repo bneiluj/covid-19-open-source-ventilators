@@ -39,6 +39,7 @@ Caregiver models based on Decathlon products
 - Tested: ✅ by @bneiluj
 - Feedback: Much better design and mechanism of attaching the charlotte into the Decathlon mask than the Easy Covid 19
 - Printing time: "Simple" 1h30, "double" 2h30
+- Quality: 8/10
 
 <p align="center">
   <img src="/assets/covid_HNFC.png" width="300">
@@ -55,6 +56,7 @@ It’s the construction of an emergency ventilator mask, realized by adjusting a
 - Video: https://youtu.be/w4Csqdxkrfw
 - Tested: ✅ by @bneiluj
 - Feedback: Not great designs. Easily breaks at the fixation part
+- Quality: 5/10
 
 <p align="center">
   <img src="/assets/Easy-Covid-19/Easy-Covid-19-1.jpg" width="300">
