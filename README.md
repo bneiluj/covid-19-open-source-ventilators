@@ -38,6 +38,7 @@ Caregiver models based on Decathlon products
 - Video: https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/pays-de-montbeliard/coronavirus-covid-19-ecole-ingenieurs-belfort-montbeliard-lance-production-masques-hopital-1808966.html
 - Tested: ✅ by @bneiluj
 - Feedback: Much better design and mechanism of attaching the charlotte into the Decathlon mask than the Easy Covid 19
+- Printing time: "Simple" 1h30, "double" 2h30
 
 <p align="center">
   <img src="/assets/utbm/covid_HNFC.png" width="300">&nbsp;
