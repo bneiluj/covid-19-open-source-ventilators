@@ -41,8 +41,8 @@ Caregiver models based on Decathlon products
 - Printing time: "Simple" 1h30, "double" 2h30
 
 <p align="center">
-  <img src="/assets/covid_HNFC.png" width="300">&nbsp;
-  <img src="/assets/utbm-7.jpg" width="300">&nbsp;
+  <img src="/assets/covid_HNFC.png" width="300">
+  <img src="/assets/utbm-7.jpg" width="300">
 </p>  
 
 ---
@@ -57,12 +57,12 @@ It’s the construction of an emergency ventilator mask, realized by adjusting a
 - Feedback: Not great designs. Easily breaks at the fixation part
 
 <p align="center">
-  <img src="/assets/Easy-Covid-19/Easy-Covid-19-1.jpg" width="300">&nbsp;
-  <img src="/assets/Easy-Covid-19/Easy-Covid-19-2.jpg" width="300">&nbsp;
+  <img src="/assets/Easy-Covid-19/Easy-Covid-19-1.jpg" width="300">
+  <img src="/assets/Easy-Covid-19/Easy-Covid-19-2.jpg" width="300">
 </p>  
 
 <p align="center">
-  <img src="/assets/Easy-Covid-19/Easy-Covid-19-3.jpg" width="300">&nbsp;
+  <img src="/assets/Easy-Covid-19/Easy-Covid-19-3.jpg" width="300">
 </p>
 
 ---
@@ -142,8 +142,8 @@ An open hardware and source project aiming to upgrade ventilation bags. By colla
 - Video: https://www.youtube.com/watch?v=4xX6sCamPJw
 
 <p align="center">
-  <img src="/assets/Florida1.jpg" width="300">&nbsp;
-  <img src="/assets/Florida2.jpg" width="300">&nbsp;
+  <img src="/assets/Florida1.jpg" width="300">
+  <img src="/assets/Florida2.jpg" width="300">
 </p>  
 
 # Contributors
@@ -157,7 +157,7 @@ This project exists thanks to all the people who contribute. https://github.com/
 Thank you to all our backers! 🙏 [Become a backer](https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors)
 
 <p align="center">
-  <img href="https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors" src="assets/contributors/contributors.jpg" width="1200">&nbsp;
+  <img href="https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors" src="assets/contributors/contributors.jpg" width="1200">
 </p>  
 
 # Research
