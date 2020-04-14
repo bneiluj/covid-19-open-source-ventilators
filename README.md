@@ -41,8 +41,8 @@ Caregiver models based on Decathlon products
 - Printing time: "Simple" 1h30, "double" 2h30
 
 <p align="center">
-  <img src="/assets/utbm/covid_HNFC.png" width="300">&nbsp;
-  <img src="/assets/utbm/utbm-7.jpg" width="300">&nbsp;
+  <img src="/assets/covid_HNFC.png" width="300">&nbsp;
+  <img src="/assets/utbm-7.jpg" width="300">&nbsp;
 </p>  
 
 ---
