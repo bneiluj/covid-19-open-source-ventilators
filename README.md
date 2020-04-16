@@ -1,5 +1,7 @@
 # covid-19-open-source-ventilators-list
 
+Published on: https://bneiluj.github.io/covid-19-open-source-ventilators/
+
 List of "buidable DIY" Covid-19 Open Source Ventilator initiatives for emergency purposes.
 
 <!-- MarkdownTOC autolink="true" levels="3,4" -->
