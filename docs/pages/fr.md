@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Open source Covid-19
-permalink: /fr/
+permalink: /fr
 redirect_from: /
 ---
 
