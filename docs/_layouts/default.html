@@ -40,7 +40,6 @@
         </a>
       </p>
 
-
       {% if site.github.is_user_page %}
       <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
       {% endif %}
@@ -59,12 +58,12 @@
 
     </section>
     <footer>
+      <p><a target="_blank" href="{{ site.twitter }}">Contact</a></p>
       <ul class="translate" data-i18n>
         <li class="{% if page.url contains '/en/' %}active{% endif %}"><a href="{{ site.baseurl | append: '/en' }}">en</a></li>
         <li>|</li>
         <li class="{% if page.url contains '/fr/' %}active{% endif %}"><a href="{{ site.baseurl | append: '/fr' }}">fr</a></li>
       </ul>
-      <p><a target="_blank" href="{{ site.twitter }}">Contact</a></p>
     </footer>
   </div>
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
