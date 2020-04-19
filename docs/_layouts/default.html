@@ -60,9 +60,9 @@
     <footer>
       <p><a target="_blank" href="{{ site.twitter }}">Contact</a></p>
       <ul class="translate" data-i18n>
-        <li class="{% if page.url contains '/en/' %}active{% endif %}"><a href="{{ site.url | append: '/en' }}">en</a></li>
+        <li class="{% if page.url contains '/en/' %}active{% endif %}"><a href="{{ '/en' | prepend: relative_url }}">en</a></li>
         <li>|</li>
-        <li class="{% if page.url contains '/fr/' %}active{% endif %}"><a href="{{ site.url | append: '/fr' }}">fr</a></li>
+        <li class="{% if page.url contains '/fr/' %}active{% endif %}"><a href="{{ '/fr' | prepend: relative_url }}">fr</a></li>
       </ul>
     </footer>
   </div>
