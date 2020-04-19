@@ -11,7 +11,7 @@ redirect_from: /
 
 ## 1. Pour personnel soignant
 
-|![Easy UTBM Valve](/assets/easy_utbm_valve.jpg_raw=true)|![Easy UTBM](/assets/easy_utbm_demo.png)|
+|![Easy UTBM Valve](/../assets/easy_utbm_valve.jpg_raw=true)|![Easy UTBM](/../assets/easy_utbm_demo.png)|
 
 A déstination du personnel soignant en réanimation. Valve avec un connecteur simple ou double pour joindre un masque Decathlon EasyBreath avec un filtre. Des solutions existent aussi pour des masques Ocean Reef and Mares.
 
@@ -23,7 +23,7 @@ A déstination du personnel soignant en réanimation. Valve avec un connecteur s
 
 ## 2. Pour patients
 
-|![Easy Isinnova](/assets/easy_isinnova_schema.jpg)|![Easy Isinnova](/assets/easy_isinnova_demo.jpg)|
+|![Easy Isinnova](/../assets/easy_isinnova_schema.jpg)|![Easy Isinnova](/../assets/easy_isinnova_demo.jpg)|
 
 Solution pour patient qui permet de connecter un masque à un ventilateur non invasive (VNI).
 
@@ -41,7 +41,7 @@ Solution pour patient qui permet de connecter un masque à un ventilateur non in
 
 ## Prusa RC3
 
-|![Prusa rc3](/assets/prusa_demo_2.jpg)|![Prusa rc3](/assets/prusa_demo.jpg)|
+|![Prusa rc3](/../assets/prusa_demo_2.jpg)|![Prusa rc3](/../assets/prusa_demo.jpg)|
 
 Visière de protection pour personnel soignant.
 
