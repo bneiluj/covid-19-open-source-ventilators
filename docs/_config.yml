@@ -27,3 +27,11 @@ exclude:
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
+
+plugins:
+  - jekyll-theme-minimal
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-theme-minimal
+  - jekyll-redirect-from

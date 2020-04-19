@@ -1,10 +1,17 @@
+---
+layout: default
+title: Open source Covid-19
+permalink: /fr
+redirect_from: /
+---
+
 # Valves pour réspirateurs/ventilators
 
 ---
 
 ## 1. Pour personnel soignant
 
-|![Easy UTBM Valve](/assets/easy_utbm_valve.jpg_raw=true)|![Easy UTBM](/assets/easy_utbm_demo.png)|
+|![Easy UTBM Valve](/../assets/easy_utbm_valve.jpg_raw=true)|![Easy UTBM](/../assets/easy_utbm_demo.png)|
 
 A déstination du personnel soignant en réanimation. Valve avec un connecteur simple ou double pour joindre un masque Decathlon EasyBreath avec un filtre. Des solutions existent aussi pour des masques Ocean Reef and Mares.
 
@@ -16,7 +23,7 @@ A déstination du personnel soignant en réanimation. Valve avec un connecteur s
 
 ## 2. Pour patients
 
-|![Easy Isinnova](/assets/easy_isinnova_schema.jpg)|![Easy Isinnova](/assets/easy_isinnova_demo.jpg)|
+|![Easy Isinnova](/../assets/easy_isinnova_schema.jpg)|![Easy Isinnova](/../assets/easy_isinnova_demo.jpg)|
 
 Solution pour patient qui permet de connecter un masque à un ventilateur non invasive (VNI).
 
@@ -34,12 +41,12 @@ Solution pour patient qui permet de connecter un masque à un ventilateur non in
 
 ## Prusa RC3
 
-|![Prusa rc3](/assets/prusa_demo_2.jpg)|![Prusa rc3](/assets/prusa_demo.jpg)|
+|![Prusa rc3](/../assets/prusa_demo_2.jpg)|![Prusa rc3](/../assets/prusa_demo.jpg)|
 
 Visière de protection pour personnel soignant.
 
 - **Score Open Makers:** 10/10
-- **Design**: [Isinnova](https://www.isinnova.it/easy-covid19-eng/) amélioré par [Dr. Bosc](http://docteurbosc.blogspot.com)
+- **Design**: [Prusa Printers](https://www.prusaprinters.org/prints/25857-prusa-face-shield)
 - **Validation:** Over 35.000 shields printed and in use.
 - **Assemblage**: [How to assemble the Prusa Face Shield](https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2-RC3/1527)
 - **Stérilisation**: [Prusa Face Shield disinfection](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457)
