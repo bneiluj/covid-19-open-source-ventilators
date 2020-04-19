@@ -2,7 +2,7 @@
 layout: default
 title: Open source Covid-19
 permalink: /fr/
-redirect_from: /
+redirect_from: /landing/
 ---
 
 # Valves pour réspirateurs/ventilators

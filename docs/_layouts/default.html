@@ -60,23 +60,13 @@
     </section>
     <footer>
       <ul class="translate" data-i18n>
-        <li class="{% if page.url == '/en/' %}active{% endif %}"><a href="{{ site.url | append: '/en' }}">en</a></li>
+        <li class="{% if page.url contains '/en/' %}active{% endif %}"><a href="{{ site.baseurl | append: '/en' }}">en</a></li>
         <li>|</li>
-        <li class="{% if page.url == '/fr/' %}active{% endif %}"><a href="{{ site.url | append: '/fr' }}">fr</a></li>
+        <li class="{% if page.url contains '/fr/' %}active{% endif %}"><a href="{{ site.baseurl | append: '/fr' }}">fr</a></li>
       </ul>
       <p><a target="_blank" href="{{ site.twitter }}">Contact</a></p>
     </footer>
   </div>
-  <!-- i18n link styles -->
-  <script>
-    function styleLink() {
-      var container = document.querySelectorAll('[data-i18n]')
-      var location = window.location
-      console.log(container, location)
-    }
-    window.addEventListener('load', styleLink)
-
-  </script>
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   {% if site.google_analytics %}
   <script>
