@@ -46,7 +46,7 @@ Solution pour patient qui permet de connecter un masque à un ventilateur non in
 Visière de protection pour personnel soignant.
 
 - **Score Open Makers:** 10/10
-- **Design**: [Isinnova](https://www.isinnova.it/easy-covid19-eng/) amélioré par [Dr. Bosc](http://docteurbosc.blogspot.com)
+- **Design**: [Prusa Printers](https://www.prusaprinters.org/prints/25857-prusa-face-shield)
 - **Validation:** Over 35.000 shields printed and in use.
 - **Assemblage**: [How to assemble the Prusa Face Shield](https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2-RC3/1527)
 - **Stérilisation**: [Prusa Face Shield disinfection](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457)
