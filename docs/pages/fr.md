@@ -1,3 +1,10 @@
+---
+layout: default
+title: Open source Covid-19
+permalink: /fr/
+redirect_from: /
+---
+
 # Valves pour réspirateurs/ventilators
 
 ---

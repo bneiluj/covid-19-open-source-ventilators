@@ -10,3 +10,17 @@
 .wrapper section {
   width: 640px;
 }
+
+.translate {
+  padding-left: 0;
+  margin: 0;
+}
+
+.translate li {
+  display: inline;
+}
+
+.translate li.active a {
+  opacity: 0.7;
+  cursor: default;
+}
