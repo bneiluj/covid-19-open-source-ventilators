@@ -31,6 +31,19 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguq
 
 ###  Open source designs
 ---
+#### MedShield-19
+
+Open repository for sharing designs and modifications to the protection mask MedShield-19 for Coronavirus
+
+- Website: https://github.com/ferbeab/MedShield-19
+- Files: https://github.com/ferbeab/MedShield-19
+- Tested: ✅ by Henri https://github.com/l-henri
+
+<p align="center">
+  <img src="/assets/MedShield-19/2020-04-21 13.35.19.jpg" width="300">
+  <img src="/assets/MedShield-19/2020-04-21 13.35.23.jpg" width="300">
+</p>  
+---
 #### UTBM Decathlon Valve for caregiver
 
 Caregiver models based on Decathlon products
