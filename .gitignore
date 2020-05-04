@@ -1,0 +1,3 @@
+# Ignore Jekyll tmp dirs
+.jekyll-cache
+_site
