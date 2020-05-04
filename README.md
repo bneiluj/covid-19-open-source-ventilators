@@ -37,7 +37,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguq
 Open repository for sharing designs and modifications to the protection mask MedShield-19 for Coronavirus
 
 - Website: https://github.com/ferbeab/MedShield-19
-- Files: https://github.com/ferbeab/MedShield-19
+- Files: /assets/MedShield-19/Subea-with-attach v4-with-logo.stl
 - Tested: ✅ by Henri https://github.com/l-henri
 
 <p align="center">
